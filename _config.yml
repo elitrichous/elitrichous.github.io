@@ -1,15 +1,13 @@
-title: Hello, world! I'm David Freeman
+title: Here is some stuff about Eli Seth Neiburger
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This is a personal website for Eli Neiburger. The alternative was updating my linkedin, gross!
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://elitrichous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: elitrichous
 
 # Author Settings
-author: David Freeman # add your name
+author: Eli Seth Neiburger # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
