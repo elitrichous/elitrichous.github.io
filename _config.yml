@@ -1,6 +1,6 @@
 title: Here is some stuff about eli.
 description: > # this means to ignore newlines until "baseurl:"
- This is a personal website for Eli Neiburger. The alternative was updating my linkedin, gross!
+ This is a personal website for Eli Neiburger. The alternative was updating linkedin, gross!
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://elitrichous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
