@@ -5,3 +5,77 @@ date: 2022-03-01 12:07:00 +0500
 description: See my work history, board & committees, presentations, publications and skills in a 2-page nutshell
 img:  # Add image post (optional)
 ---
+## Education:
+- B.S. of Architecture, 1996, University of Michigan LS&A Honors College / College of Architecture and Urban Planning
+
+## Employment:
+### 1997 - present: Ann Arbor District Library, Various positions:
+- Helpdesk Technician
+- Desktop Engineer
+- Systems Planner
+- Network Administrator
+- IT Manager
+- Associate Director
+- Deputy Director
+
+## Notable Internships / Volunteer Positions
+- Music Educator
+- Puppeteer
+- Comedy Writer
+- Video Store Designer
+- FIRST Robotics Team Mentor
+- LEGO Event Producer
+- Unconference Organizer
+
+## Boards & Committees:
+- ACM-SIGGRAPH: Sandbox Symposium Event Chair 2006-2009
+- Jhai Foundation: Board Chair. Mission: bring telemedicine to the developing world; worked to dissolve after founder’s retirement
+- Library Renewal: Board Member; nonprofit working to establish new digital licensing models for libraries; discontinued by founder
+
+## Presentation Highlights:
+- 2005-2008: ALA Gaming, Learning, & Libraries Symposium: Featured Speaker
+- 2008: UgameUlearn Conference, Delft, Netherlands: Featured Speaker
+- 2008: Malmö City Library, Malmö, Sweden: Staff Inservice Speaker
+- 2009: UNG3.0 Youth, Tech & Learning conference, Drammen, Norway: Keynote Speaker
+- 2009: Webwise IMLS Conference, Washington DC: Preconference Presenter
+- 2010: Library Journal Ebook Summit: Featured Online speaker: “Libraries are Screwed”
+- 2011: US Embassy, Rome: BookNext Future of Reading Conference, Remote Keynote
+- 2012: VALA Library Association Annual Conference, Melbourne, Australia: Closing Keynote
+- 2012: Parliament House, Sydney, Australia: Presentation for Library Staff & Teachers
+- 2013: Zukunftswerkstatt, Berlin / Munich / Karlsruhe / Cologne: Public Presentations
+- 2013: US Embassy, Berlin: Presentation for Staff on Engagement with Games & Social Media
+- 2013: State Library of Queensland, Brisbane, Australia: Presentation & Panelist
+- 2013: LIANZA Library Association Conference, Hamilton, New Zealand: Keynote Speaker
+- 2014: Gaming and Cultural Institutions, Wolfenbüttel, Germany: Featured Speaker
+- 2015: ALA Annual Conference, San Francisco: AASL President’s Program Speaker
+- 2016: Antwerp, Belgium: Featured Speaker, Permeke Library 10th Anniversary Celebration
+- 2016: CounterPlay, Aarhus, Denmark: Featured Speaker
+- 2017: US Embassy, Mexico City: Guest of State Department for Goethe Institute Event
+- 2017: Book Industry Study Group Publisher Workshop, NYC: Guest Speaker
+
+## Publications:
+- Author, GAMERS... IN THE LIBRARY?! ALA Editions, 2007.
+- Contributor to ALA Techsource Library Technology Reports
+- Columnist for Digitale Bibliotheek, Belgian Digital Library Journal
+- Contributor to Well Played, an Academic Games Journal, Carnegie Mellon ETC Press
+- Contributor to Pop Goes the Library, Pop Culture Blog for Librarians
+- Contributor to VOYA, Voice of Youth Advocates, Journal for Teen Librarians & Teachers
+- Guest Contributor to Journal of Library Administration
+- Contributor to BOOK: A FUTURIST’S MANIFESTO, O’Reilly Media
+
+## Consulting & Grant-funded Work:
+- 1999: Training Content Developer for Merit Networks, Windows NT Guides for K12 Teachers
+- 2000s: Flash Game Developer for The World Around Us, Winter Family Reading Program, in partnership with the University of Michigan Exhibit Museum of Natural History, funded by the Library of Michigan with Library Services & Technology Act support 
+- 2008: Expert Panel, Libraries, Literacy, & Gaming Project, American Library Association, funded by The Verizon Foundation 
+- 2009: Consultant, Partners in Research: Community Engagement in Clinical Research, partnership with University of Michigan Medical School & Taubman Health Sciences Library, funded by National Institute of Health 
+- 2009: Michigan Broadband Summit, Lansing MI: Asked by organizers to produce 10-minute video in collaboration with Merit & UMSI to describe potential of advanced networking
+- 2010: AADL Representative, Resource Sharing Cooperative of Evergreen Libraries, led by King County Library System, funded by an IMLS National Leadership Grant 
+- 2010: Presenter, ILEADU Cohort Closing Session, led by the Illinois State Library & University of Illinois – Springfield, funded by an Institute for Museum & Library Services Grant 
+- 2011: Panelist, ALA Office of Intellectual Freedom / OCLC Webjunction: Presented on Finding a Legal Comfort Zone on the Web
+- 2012: Presenter, Marketing & Social Media Workshop, America’s Music Project, Tribeca Film Institute / American Library Association / National Endowment for the Humanities 
+- 2013-2014: Presenter, ILEAD-USA, led by the Illinois State Library, funded by IMLS
+- 2014: Consultant, UW Born-Digital Music Preservation Project, funded by IMLS 
+- 2021: AADL Representative, mCode Open Data Literacy Project, IUPUI, funded by IMLS
+
+## Areas of Expertise:
+IT management & Software / Web Development, Architecture & Building / Renovation Projects, Event Planning & Promotion, Licensing & Publishing, Composing & Arranging, Audio & Video Production, Financial & Strategic Planning, Staff Development, Excellent Customer Service, Process Design & Enhancement, Kid & Teen Engagement, Pokémon
