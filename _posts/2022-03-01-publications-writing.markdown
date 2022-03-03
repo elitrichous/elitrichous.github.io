@@ -9,7 +9,9 @@ The image above is the cover of my book "Gamers in the Library", showing space a
 
 ### GAMERS... IN THE LIBRARY?! ALA Editions, 2007.
 [Goodreads](https://www.goodreads.com/book/show/1714673.Gamers_in_the_Library_)
+
 [Check it out at AADL!](https://aadl.org/catalog/record/10002755)
+
 [Excerpt published in American Libraries](https://www.jstor.org/stable/27771178)
 
 ### ALA Techsource Library Technology Reports: Privacy and Freedom of Information in 21st Century Libraries: User Generated Content, 2010
