@@ -16,7 +16,7 @@ What was essentially a cold call related to our videogaming events got me involv
 ### Jhai Foundation, Board Member 2009-2014. Board Chair 2011-2014
 The Jhai Foundation worked to bring telemedicine to the developing world. I became Board Chair after the Founder, and worked to spin down operations after the Founder's retirement.
 
-### Library Renewal, Board Member 2011-2014.
+### Library Renewal, Board Member 2011-2013.
 Library Renewal was founded to work to address problems with Library Digital Licensing and build a more sustainable model for libraries. The Founder discontinued the organization in 2014.
 
 ### Skyline Robotics, FRC 3322, Media Mentor, 2017-2022
