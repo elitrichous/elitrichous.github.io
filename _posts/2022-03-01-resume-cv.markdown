@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resume & C.V."
-date: 2022-03-01 12:07:00 +0500
+date: 2022-03-01 12:57:00 +0500
 description: See my work history, board & committees, presentations, publications and skills in a 2-page nutshell
 img:  # Add image post (optional)
 ---
