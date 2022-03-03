@@ -1,0 +1,7 @@
+---
+layout: post
+title: Videos
+date: 2022-03-01 12:47:00 +0500
+description: Videos I've produced
+img: software.jpg # Add image post (optional)
+---
