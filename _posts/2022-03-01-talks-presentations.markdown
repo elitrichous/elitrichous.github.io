@@ -23,7 +23,7 @@ Here's a bunch of my talks I've been invited to give over the years that you can
 [Video of Talk "Access, Schmaccess"](https://webcast.gigtv.com.au/Mediasite/Play/1e065b11e6924a0a908cebb76d7917c71d)
 
 ### 2013: State Library of Queensland, Brisbane, Australia: Presentation & Panelist
-[Blog Post Preview for Talk] (https://www.slq.qld.gov.au/blog/why-library-when-you-could-just-forget-past-present-and-future-your-community-eli-neiburger)
+[Blog Post Preview for Talk](https://www.slq.qld.gov.au/blog/why-library-when-you-could-just-forget-past-present-and-future-your-community-eli-neiburger)
 
 ### 2013: LIANZA Library Association Conference, Hamilton, New Zealand: Keynote Speaker
 <iframe width="560" height="315" src="https://www.youtube.com/embed/igFHLlJGIps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
