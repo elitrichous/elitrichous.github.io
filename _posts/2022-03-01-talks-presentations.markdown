@@ -19,6 +19,9 @@ Here are bunch of my talks I've been invited to give over the years that you can
 ### 2011: Mary Calletto Rife Youth Literature Seminary, Kalamazoo, MI: "Text, Tech, & Teens in this Century"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GFyQmHV2J7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 2012: ALA Techsource, Finding a Legal Comfort Zone on the Web
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cgw0IVSJsII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2012: VALA Library Association Annual Conference, Melbourne, Australia: Closing Keynote
 [Proceedings](https://www.vala.org.au/vala2012-proceedings/vala2012-plenary-6-neiburger/)
 
