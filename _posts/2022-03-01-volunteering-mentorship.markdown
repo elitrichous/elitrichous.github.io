@@ -8,8 +8,6 @@ img: frccomp.jpeg # Add image post (optional)
 
 The image above is of a FIRST Robotics Competition event at Kettering University in March 2020. There is robotics field with metal trusses and play elements, yellow balls in place on the field, wheeled robots on the field, and people standing around waiting for the match to start. There are also bleachers in the background filled with teams of high schoolers cheering on their robots.
 
-I've volunteered to serve on various boards and to work on various events over the years:
-
 ### SIGGRAPH Sandbox Symposium Events Chair, 2006-2009
 What was essentially a cold call related to our videogaming events got me involved with SIGGRAPH and ACM as SIGGRAPH was just starting to get into games and real-time rendering. I organized gaming events for the Sandbox Symposium as a part of SIGGRAPH in 2006 in Boston, 2007 in San Diego, 2008 in L.A., and 2009 in New Orleans.
 
