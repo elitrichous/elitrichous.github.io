@@ -5,7 +5,7 @@ date: 2022-03-01 12:47:00 +0500
 description: Talks and Presentations I've been invited to give around the world.
 img: talksandpresentations.jpg # Add image post (optional)
 ---
-The photo above is of me giving a talk at the 34th annual Mary Calletto Rife Youth Literature Seminar in Kalamazoo, Michigan, November 4, 2011.
+The photo is of me giving a talk at the 10th Anniversary of the Permeke Library in Antwerp, Belgium, in 2016. There's a cube on the screen with the x axis marked crap / not crap, the y axis marked want / do not want and the z axis labeled uniqueness.
 
 Here are bunch of my talks I've been invited to give over the years that you can watch online!
 
