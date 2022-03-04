@@ -8,19 +8,19 @@ img: nfb.jpeg # Add image post (optional)
 The image shows a sign promoting my family's performance at the Water Hill Music Festival. We call ourselves the Nintendoland Family Band, and we play covers of videogame music that I love to arrange. Below you'll find playlists of our sets at the 4 years we performed at the festival!
 
 If you're just going to watch one Nintendoland Family Band Video, make it this one! Audi Famam Illius from Super Smash Bros Brawl, our Finale from our 2015 set.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZHzhCfx6pSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="315" src="https://www.youtube.com/embed/ZHzhCfx6pSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Full 2015 Set](https://www.youtube.com/playlist?list=PLNEr3H4D8REBK3eampGvsZqQJ1YAA7KXL)
 
 Here's a highlight from 2016, Gruntilda's Lair from Banjo Kazooie.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/syvUWkppxsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="315" src="https://www.youtube.com/embed/syvUWkppxsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Full 2016 Set](https://www.youtube.com/playlist?list=PLNEr3H4D8REA4KAk9lTXq9u2or3orO1xX)
 
 And here's a highlight from 2017, Mumbo's Mountain, also from Banjo Kazooie.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jfm5julOuFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="315" src="https://www.youtube.com/embed/jfm5julOuFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Full 2017 Set](https://www.youtube.com/playlist?list=PLNEr3H4D8REDur-cdlx9mqaNSI5JSaqOx)
 
 Finally, a favorite arrangement from 2018, a mashup of Paperboy and Moon Patrol.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Dy4PKViqKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="315" src="https://www.youtube.com/embed/8Dy4PKViqKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Full 2018 Set](https://www.youtube.com/playlist?list=PLNEr3H4D8REDNXHrN_WyqKbuuu0ZOuYuC)
 
 I've also arranged pieces performed by the University of Michigan Youth Euphonium and Tuba Ensemble. I wrote a Brass Quintet in High School titled "Little Bunny Foo Fugue" that I still hope to have performed someday!
