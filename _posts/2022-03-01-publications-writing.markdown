@@ -16,6 +16,7 @@ The image above is the cover of my book "Gamers in the Library", showing space a
 
 ### ALA Techsource Library Technology Reports: Privacy and Freedom of Information in 21st Century Libraries: User Generated Content, 2010
 [Worldcat](https://www.worldcat.org/title/privacy-and-freedom-of-information-in-21st-century-libraries/oclc/720396720)
+
 Online Talk based on this Paper:
 <iframe width="315" height="200" src="https://www.youtube.com/embed/cgw0IVSJsII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
