@@ -19,7 +19,7 @@ Library Renewal was founded to work to address problems with Library Digital Lic
 
 ### Skyline Robotics, FRC 3322, Media Mentor, 2017-2022
 FIRST Robotics is an annual competition league for High School Students to build robots to compete in alliances of 3 robots. I became a mentor when my kids joined the team in 2017, and was a JV mentor that year; I've been the Media Mentor for the team since 2018. Here are some videos the team produced under my mentorship while applying for the FRC Chairman's Award:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dOlOeRAqMDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EzVIVyIP3f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9CpgyMa19DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="330" height="200" src="https://www.youtube.com/embed/dOlOeRAqMDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="330" height="200" src="https://www.youtube.com/embed/EzVIVyIP3f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="330" height="200" src="https://www.youtube.com/embed/9CpgyMa19DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
