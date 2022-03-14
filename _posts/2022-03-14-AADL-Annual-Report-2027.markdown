@@ -30,12 +30,12 @@ I was first hired at AADL in August 1997 as a Helpdesk Technician. Then I worked
 
 So, to frame up the Library Sci-fi you’re about to hear:
 
-- I won’t be talking about specific partners 
+- I won’t be talking about specific partners
 - I won’t be talking about specific buildings
 - I won’t be talking about the strategic plan
 - I (mostly) won’t be talking about numbers
 
-- I will be talking about things we *could* do
+I will be talking about things we *could* do
 and things that *could* happen in the world
 and how the library might respond
 and how things will be ok.
@@ -113,10 +113,10 @@ Credit for these 4 Apocalypses is taken by an anticapitalist hacker collective c
 - Meeting Rooms - flat
 - Working Rooms - Up
 - Program Rooms - Flat
-- AADL Events - Flat
-- Partner Events - Up
-- Room Rentals - Down
-- Community Events - Up
+- - AADL Events - Flat
+- - Partner Events - Up
+- - Room Rentals - Down
+- - Community Events - Up
 
 ### FEATURED EVENTS
 - Protest Lab
@@ -175,17 +175,17 @@ Credit for these 4 Apocalypses is taken by an anticapitalist hacker collective c
 
 ### INTERNAL GOALS
 - A MORE DIVERSE STAFF
-- Community Internship Program
-- Equity-focused Benefit Offerings
-- Partner Jobs Program
+- - Community Internship Program
+- - Equity-focused Benefit Offerings
+- - Partner Jobs Program
 - IMPROVING EQUITY OF ACCESS
-- Service Access Assistants
-- Clothes Connection
-- Say Hello Service
+- - Service Access Assistants
+- - Clothes Connection
+- - Say Hello Service
 - TO INCREASINGLY INCLUSIVE SERVICES
-- Not Just Heritage & History Months / Days of Observance
-- Special Collections & Events
-- Community-based Event Hosting
+- - Not Just Heritage & History Months / Days of Observance
+- - Special Collections & Events
+- - Community-based Event Hosting
 
 ### TO SUM UP…
 - Things are going well at AADL!
@@ -196,3 +196,5 @@ Credit for these 4 Apocalypses is taken by an anticapitalist hacker collective c
 - Thank you to our amazing staff and our incredible patrons for making it all happen every day.
 
 ### Any Questions?
+
+email me at eli at eliworks.com !
