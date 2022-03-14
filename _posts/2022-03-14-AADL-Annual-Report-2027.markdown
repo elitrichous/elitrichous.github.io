@@ -8,6 +8,9 @@ img: talk.jpg # Add image post (optional)
 
 [Link to PDF of Slide Deck](https://elitrichous.github.io/assets/img/AADL%20Annual%20Report%202027.pdf)
 
+For the AADL Director Interview process, finalists were asked to give a 10-12 minute talk as if they were presenting the AADL Annual Report to the board 5 years in the future.
+
+There's a lot that I can see AADL doing, and there are things I expect could happen in the world that AADL would need to react to. This is a little bit of all of that.
 
 Here's all the text (and a bit more) that appears on slides in this slide deck.
 
