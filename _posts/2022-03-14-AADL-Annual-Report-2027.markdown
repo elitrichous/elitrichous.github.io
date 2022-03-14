@@ -26,12 +26,12 @@ And I’ve been Deputy Director since 2014.
 
 So, to frame up the Library Sci-fi you’re about to hear:
 
-I won’t be talking about specific partners
-I won’t be talking about specific buildings
-I won’t be talking about the strategic plan
-I (mostly) won’t be talking about numbers
+- I won’t be talking about specific partners 
+- I won’t be talking about specific buildings
+- I won’t be talking about the strategic plan
+- I (mostly) won’t be talking about numbers
 
-I will be talking about things we *could* do
+- I will be talking about things we *could* do
 and things that *could* happen in the world
 and how the library might respond
 and how things will be ok.
