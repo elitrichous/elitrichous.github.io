@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AADL Annual Report 2027
-date: 2022-03-01 12:07:00 +0500
+date: 2022-03-14 12:07:00 +0500
 description: For the AADL Director interview, candidates were asked to present an AADL Annual Report from 5 years into the future.
 img: talk.jpg # Add image post (optional)
 ---
