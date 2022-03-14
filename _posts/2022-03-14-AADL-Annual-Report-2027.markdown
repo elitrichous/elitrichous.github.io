@@ -6,7 +6,7 @@ description: For the AADL Director interview, candidates were asked to present a
 img: talk.jpg # Add image post (optional)
 ---
 
-[Link to PDF of Slide Deck] (https://elitrichous.github.io/assets/img/AADL%20Annual%20Report%202027.pdf)
+[Link to PDF of Slide Deck](https://elitrichous.github.io/assets/img/AADL%20Annual%20Report%202027.pdf)
 
 
 Here's all the text (and a bit more) that appears on slides in this slide deck.
