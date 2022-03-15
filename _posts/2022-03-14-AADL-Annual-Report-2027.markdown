@@ -163,6 +163,8 @@ Credit for these 4 Apocalypses is taken by an anticapitalist hacker collective c
 - Silver Social Hour
 - Sensory-Friendly Series
 
+Note: some of the series concepts are for staff organization only; they would not be promoted as these named series.
+
 ### OUTSIDE THE LIBRARY
 - Card Drives and Cardholder Recruitment - Up
 - StreetCraft - Flat
